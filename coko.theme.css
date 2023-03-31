@@ -37,8 +37,8 @@
   --gradient-direction: 185deg;
   --tint-colour: 255,51,159;
   --tint-brightness: 0;
-  --window-padding: 3px;
-  --window-roundness: 5px;
+  --window-padding: 0px;
+  --window-roundness: 0px;
   --update-notice-1: none;
   --HSL-server-icon-size: 40px;
   --HSL-server-spacing: 10px;
